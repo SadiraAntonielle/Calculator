@@ -3,10 +3,6 @@
 
 Uma calculadora simples inspirada no design da calculadora do iPhone. Esta calculadora é responsiva e pode ser usada em diferentes dispositivos, como desktops, tablets e celulares.
 
-## Captura de Tela
-
-![Calculadora](caminho/para/screenshot.png)
-
 ## Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação e divisão.
@@ -25,7 +21,7 @@ Uma calculadora simples inspirada no design da calculadora do iPhone. Esta calcu
 
 ### Pré-requisitos
 
-Você precisará de um navegador web moderno para visualizar e usar a calculadora.
+Você precisará de um navegador web para visualizar e usar a calculadora.
 
 ### Instruções
 
@@ -79,15 +75,3 @@ Contém a lógica da calculadora em JavaScript.
 - **=**: Calcula a expressão no display.
 - **0-9**: Digita números.
 - **.**: Adiciona um ponto decimal.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito com ♥ por [Seu Nome](https://github.com/seu-usuario)
